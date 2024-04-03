@@ -1,5 +1,7 @@
 # Netflix Clone
 
+*Confira o deploy do projeto [aqui](https://n3tflix-clone.netlify.app/)*
+
 Projeto realizado no bootcamp HTML Web Developer da Digital Innovation One. Essa é a versão final do projeto, mas que pode receber melhoramentos no futuro. 🙂
 
 ![](https://raw.githubusercontent.com/cabarros3/clone-netflix/master/img/FireShot%20Capture%20069%20-%20NETFLIX%20CLONE%20-%20n3tflix-clone.netlify.app.png)
